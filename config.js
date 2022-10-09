@@ -65,21 +65,21 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Apple Music',
-			icon: 'headphones',
-			link: 'https://music.apple.com/us/browse',
-		},
-		{
-			id: '4',
 			name: 'GMail',
 			icon: 'Mail',
 			link: 'https://mail.google.com/',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Google Drive',
 			icon: 'folders',
 			link: 'https://drive.google.com',
+		},
+				{
+			id: '5',
+			name: 'Apple Music',
+			icon: 'headphones',
+			link: 'https://music.apple.com/us/browse',
 		},
 		{
 			id: '6',
