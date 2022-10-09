@@ -75,7 +75,7 @@ const CONFIG = {
 			icon: 'folders',
 			link: 'https://drive.google.com',
 		},
-				{
+		{
 			id: '5',
 			name: 'Apple Music',
 			icon: 'headphones',
