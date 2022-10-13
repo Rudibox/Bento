@@ -17,9 +17,9 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingMorning: 'Good Morning!',
+	greetingAfternoon: 'Good Afternoon',
+	greetingEvening: 'Good Evening',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Apple Music',
 			icon: 'headphones',
-			link: 'https://music.apple.com/us/browse',
+			link: 'https://music.youtube.com',
 		},
 		{
 			id: '6',
@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Hermitcraft',
-					link: 'https://www.hermitcraft.com',
+					link: 'https://hermitcraft.com',
 				},
 			],
 		},
