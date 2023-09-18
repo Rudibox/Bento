@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'HBO Max',
-					link: 'https://play.hbomax.com',
+					name: 'Max',
+					link: 'https://play.max.com',
 				},
 				{
 					name: 'Disney+',
